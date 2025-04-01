@@ -63,6 +63,10 @@ Ensure you have the following installed:
 2. 📤 Upload images or videos to optimize and convert them.
 3. 🔄 Download or share the optimized media effortlessly across platforms.
 
+## 🌐 Deployment
+The application is currently deployed and can be accessed at:  🔗 [Live Demo](https://cloudinary-saas-self.vercel.app/)
+
+Experience the full functionality of our AI-powered media optimization platform by visiting the live site.
 
 ## 📬 Contact
 For any inquiries, feel free to reach out via nayakraja151@gmail.com
